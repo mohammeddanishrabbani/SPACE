@@ -21,7 +21,6 @@ blivet==3.3.3
 Bottleneck==1.2.1
 cffi==1.14.5
 chardet==4.0.0
-chrome-gnome-shell==0.0.0
 click==7.1.2
 cloudpickle==1.6.0
 conda==4.10.1
