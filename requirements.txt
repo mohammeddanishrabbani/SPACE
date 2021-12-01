@@ -10,3 +10,4 @@ sqlparse==0.4.2
 toml==0.10.2
 django-heroku==0.0.0
 whitenoise
+psycopg2
